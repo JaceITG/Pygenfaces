@@ -12,7 +12,7 @@ Pygenfaces is a Python adaptation of Steve Brunton's [SVD Eigen Action Hero Proj
 
 Analyzing the similarity of test image of Arnold
 
-![arnold](https://github.com/scheisseosu/ISU-CS/blob/main/cs401/eigen%20project/test00.jpg)
+![arnold](https://github.com/scheisseosu/Pygenfaces/test00.jpg)
 
 
 Run Pygenfaces on the 'jerma' and 'arnold' datasets
@@ -23,11 +23,11 @@ Run Pygenfaces on the 'jerma' and 'arnold' datasets
 
 After processing all dataset images, the following Eigenfaces are created
 
-![eigenfaces](https://github.com/scheisseosu/ISU-CS/blob/main/cs401/eigen%20project/example/eigenexample.jpg)
+![eigenfaces](https://github.com/scheisseosu/Pygenfaces/example/eigenexample.jpg)
 
 The following graph depicts the eigenspace values of each dataset's images, along with the placement of the sample image
 
-![graph](https://github.com/scheisseosu/ISU-CS/blob/main/cs401/eigen%20project/example/example.jpg)
+![graph](https://github.com/scheisseosu/Pygenfaces/example/example.jpg)
 
 Output showing quantitative similarity of sample to each dataset:
 ```
